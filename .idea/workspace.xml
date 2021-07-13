@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d6a76409-4971-4075-a47b-8d87933e5faa" name="Default Changelist" comment="index adj">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    <list default="true" id="d6a76409-4971-4075-a47b-8d87933e5faa" name="Default Changelist" comment="gif tries">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1626193643396</updated>
-      <workItem from="1626193644864" duration="4037000" />
+      <workItem from="1626193644864" duration="4424000" />
     </task>
     <task id="LOCAL-00001" summary="index adj">
       <created>1626194337489</created>
@@ -66,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626194337489</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gif tries">
+      <created>1626198647636</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626198647636</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +88,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="index adj" />
-    <option name="LAST_COMMIT_MESSAGE" value="index adj" />
+    <MESSAGE value="gif tries" />
+    <option name="LAST_COMMIT_MESSAGE" value="gif tries" />
   </component>
 </project>

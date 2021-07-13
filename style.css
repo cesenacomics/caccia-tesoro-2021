@@ -7,26 +7,6 @@ body {
     color: #003977;
 }
 
-/*SUCCESS GIF*/
-.success {
-    background: url(images/Boiler.gif) no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
-
-.overlay{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: white;
-    text-align: center;
-    text-transform: uppercase;
-}
-
-
 /* NAV */
 .sticky {
     position: fixed;
@@ -51,45 +31,6 @@ body {
     height: 30px;
     margin: 1vh auto 1vh 2vw;
 }
-
-/* TEXT */
-.container {
-    display: block;
-    align-items: center;
-    justify-content: center;
-}
-
-header {
-    margin: 50px 0 30px 0;
-    font-family: 'Montserrat', sans-serif;
-}
-
-h1{
-    font-size: 2.4rem;
-    font-weight: 700;
-}
-
-h4 {
-    font-size: 1.8rem;
-}
-
-h5 {
-    font-size: 1.6rem;
-}
-
-h6 {
-    font-size: 1.2rem;
-}
-
-p {
-    font-size: 1rem;
-}
-
-#next-pw {
-    background-color: #f05a21;
-    color: white;
-}
-
 
 /* WRAPPER */
 .wrapper {
@@ -316,4 +257,32 @@ hr {
 
 .close {
     color: #003977;
+}
+
+/*SUCCESS GIF*/
+.success {
+    background: url(images/Boiler.gif) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.overlay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    text-align: right !important;
+    text-transform: uppercase;
+}
+
+@media (max-device-width: 600px) {
+    .overlay {
+        text-align: center !important;
+    }
+
+#title, #subt {
+    font-weight: bold;
 }
